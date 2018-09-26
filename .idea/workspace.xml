@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f57f2b09-2dba-4279-bb48-975472d94115" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/CountAndSay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/ImplementstrStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/LongestCommonPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/MergeTwoSortedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/PalindromeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/RemoveDuplicatesFromSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/RomanToInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/SearchInsertPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Easy/ValidParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/url.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -107,8 +122,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -158,8 +173,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="629" />
-    <option name="y" value="56" />
+    <option name="x" value="224" />
+    <option name="y" value="23" />
     <option name="width" value="1676" />
     <option name="height" value="946" />
   </component>
@@ -178,45 +193,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -377,8 +353,30 @@
       <workItem from="1535349517093" duration="771000" />
       <workItem from="1537256004948" duration="9832000" />
       <workItem from="1537519034718" duration="11672000" />
-      <workItem from="1537955650278" duration="510000" />
+      <workItem from="1537955650278" duration="1038000" />
     </task>
+    <task id="LOCAL-00001" summary="添加gitignore">
+      <created>1537956186256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537956186256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加gitignore">
+      <created>1537956303669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537956303669</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加gitignore">
+      <created>1537956652699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537956652699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -390,10 +388,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39643000" />
+    <option name="totallyTimeSpent" value="40171000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="629" y="56" width="1676" height="946" extended-state="0" />
+    <frame x="602" y="89" width="1676" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -432,6 +430,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -597,6 +599,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+          <folding>
+            <element signature="docComment;class#LongestCommonPrefix#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -656,6 +661,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#LongestCommonPrefix#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -752,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>

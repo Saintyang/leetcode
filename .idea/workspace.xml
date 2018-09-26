@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f57f2b09-2dba-4279-bb48-975472d94115" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f57f2b09-2dba-4279-bb48-975472d94115" name="Default" comment="添加gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/CountAndSay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/ImplementstrStr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/LongestCommonPrefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/MaxSubarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/MergeTwoSortedLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/PalindromeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/RemoveDuplicatesFromSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/RemoveElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/ReverseInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/RomanToInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/SearchInsertPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Easy/ValidParentheses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/url.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,8 +49,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="45">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -78,7 +100,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="224" />
+    <option name="x" value="17" />
     <option name="y" value="23" />
     <option name="width" value="1676" />
     <option name="height" value="946" />
@@ -263,7 +285,7 @@
       <workItem from="1535349517093" duration="771000" />
       <workItem from="1537256004948" duration="9832000" />
       <workItem from="1537519034718" duration="11672000" />
-      <workItem from="1537955650278" duration="1169000" />
+      <workItem from="1537955650278" duration="1300000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore">
       <created>1537956186256</created>
@@ -293,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537956749452</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加gitignore">
+      <created>1537956846009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537956846009</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -305,10 +334,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40302000" />
+    <option name="totallyTimeSpent" value="40433000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="224" y="23" width="1676" height="946" extended-state="0" />
+    <frame x="17" y="23" width="1676" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -680,8 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>

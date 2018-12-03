@@ -16,4 +16,19 @@ package Easy;
  * Tags: Array, Divide and Conquer, Dynamic Programming
  * */
 public class MaxSubarray {
+    public static void main(String[] args) {
+        System.out.println(maxSubarray(new int[]{3,6,-2,3,6}));
+    }
+
+    public static int maxSubarray(int[] arr){
+        int res = 0 , tmpSum = 0;
+        for(int i=0;i<arr.length;i++){
+            tmpSum = arr[i]+(tmpSum>0?tmpSum:0);
+            if(tmpSum>res){
+                res = tmpSum;
+            }
+        }
+        return res;
+    }
+
 }
